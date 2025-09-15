@@ -1,2 +1,11 @@
-# Cybersecurity-Portfolio-AdamZasinski
-This repository showcases my cybersecurity journey, featuring portfolio activities from the Google Cybersecurity Certificate, including detailed reports. It also includes Python scripts, plus potential TryHackMe projects highlighting hands-on skills in security and networking. A work in progress to reflect my growing expertise.
+Cybersecurity Portfolio - Adam Zasiński
+
+This repository serves as a personal portfolio showcasing my cybersecurity activities and projects. It includes:
+
+Portfolio Activities from Google Cybersecurity: Reports and documentation from the Google Cybersecurity Certificate program, demonstrating practical knowledge and skills.
+Python Scripts: Custom scripts for automation, network analysis, and security tasks, reflecting my programming expertise.
+TryHackMe Projects: Selected challenges and solutions from TryHackMe, highlighting hands-on experience in offensive security and networking.
+
+Contact
+Email: adamzasinski@icloud.com
+TryHackMe: arnie21layne
